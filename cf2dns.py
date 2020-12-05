@@ -33,8 +33,8 @@ DNS_SERVER = 1
 #API 密钥
 #腾讯云后台获取 https://console.cloud.tencent.com/cam/capi
 #阿里云后台获取 https://help.aliyun.com/document_detail/53045.html?spm=a2c4g.11186623.2.11.2c6a2fbdh13O53  注意需要添加DNS控制权限 AliyunDNSFullAccess
-SECRETID = '193950'
-SECRETKEY = 'b62a0199083194a0926cf505ef83210d'
+SECRETID = 'AKIDY2MuJswiw9FMPgmLWqv1xlNtFQQFFMF1'
+SECRETKEY = 'lX9ap4DC2hBUdljZFlBSsDNL8jAQVclp'
 
 log_cf2dns = Logger('cf2dns.log', level='debug') 
 urllib3.disable_warnings()
