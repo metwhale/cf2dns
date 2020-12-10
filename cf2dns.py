@@ -21,7 +21,7 @@ KEY = "khSPgvOFNfzY"
 #CM:移动 CU:联通 CT:电信
 #修改需要更改的dnspod域名核子域名
 DOMAINS = {
-    "115227.xyz": {"@": ["CM","CU","CT"], "kx": ["CM", "CU", "CT"], "www": ["CM","CU","CT"]}
+    "115227.xyz": {"@": ["CM","CU","CT"], "kx": ["CM", "CU", "CT"], "www": ["CM","CU","CT"],"vir-375-cdn": ["CM","CU","CT"]}
 }
 
 #解析生效条数 免费的DNSPod相同线路最多支持2条解析
